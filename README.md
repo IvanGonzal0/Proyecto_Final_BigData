@@ -2,11 +2,31 @@
 
 Este es el README del Proyecto Final de Big Data & Machine Learning, desarrollado como parte del curso en la UPSO.
 
-## 1. Inicio
+> [!NOTE]
+> Esto es informacion adicional
+> ## 1. Inicio
 
-### Import de Librerías, Carga de Datos y Funciones
+> ## `Introducción`
 
-En esta sección, se encuentran las instrucciones para importar las librerías necesarias, cargar los datos y funciones esenciales para sanitizar y organizar los DataFrames.
+> El proyecto tiene como objetivo principal realizar un análisis exhaustivo del rendimiento y producción de dos de los cultivos más significativos en Argentina: trigo y soja. La iniciativa trata de proporcionar una comprensión detallada de los patrones de producción a > nivel nacional.
+
+## `Objetivos del proyecto`
+
+Agricultura
+
+● **Análisis de Producción**: Evaluar y comparar el rendimiento anual de diferentes granos, poniendo mayor énfasis y haciendo un análisis mas exhaustivo para el trigo y la soja analizando su nivel de producción en todas las provincias y departamentos de Argentina.
+
+● **Exploración Geoespacial**: Utilizar algoritmos de clustering para identificar diferentes niveles de producción de trigo y soja en las diferentes regiones geográficas Argentinas.
+
+● **Visualización Interactiva**: Generar gráficos y visualizaciones interactivas que permitan a los usuarios explorar los datos de producción y rendimiento de manera intuitiva y amigable.
+
+
+## `Justificación`
+Argentina es un actor clave en la producción agrícola a nivel mundial, y el trigo y la soja son fundamentales para nuestra economía. Entender las variaciones en la producción a nivel regional es esencial para interiorizarse en los niveles de producción de cada región en nuestro país.
+
+
+## `Alcance del Proyecto`
+El alcance abarca la totalidad del territorio argentino, examinando datos a nivel de provincias y localidades. Se emplearán técnicas de análisis de datos, visualización y algoritmos de clustering para ofrecer una visión integral y detallada de los patrones de producción de trigo y soja.
 
 ## 2. Análisis Exploratorio de Datos
 
