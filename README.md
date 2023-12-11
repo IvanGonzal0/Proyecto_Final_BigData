@@ -83,7 +83,8 @@ Este es el README del Proyecto Final de Big Data & Machine Learning, desarrollad
 >### Visualización de Resultados por Provincia (Soja)
 >
 >Primero reutilizamos el DataFrame filtrado en el punto anterior por cultivo de Soja y a partir de ese DF reducimos las columnas a las que son de nuestro interés. Luego agrupamos el nuevo DataFrame por provincias y hacemos una sumatoria de todas las columnas numéricas.
->
+
+> [!TIP]
 >## Conclusiones
 >
 >En esta sección, se proporcionarán las conclusiones obtenidas a partir de los análisis realizados en el proyecto.
