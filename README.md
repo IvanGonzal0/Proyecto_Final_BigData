@@ -2,7 +2,7 @@
 
 Este es el README del Proyecto Final de Big Data & Machine Learning, desarrollado como parte del curso en la UPSO.
 
-> [!NOTE].
+> [!NOTE]
 >
 > ## 1. Inicio
 > ## `Introducción`
@@ -17,26 +17,27 @@ Este es el README del Proyecto Final de Big Data & Machine Learning, desarrollad
 >● **Exploración Geoespacial**: Utilizar algoritmos de clustering para identificar diferentes niveles de producción de trigo y soja en las diferentes regiones geográficas Argentinas.
 >
 >● **Visualización Interactiva**: Generar gráficos y visualizaciones interactivas que permitan a los usuarios explorar los datos de producción y rendimiento de manera intuitiva y amigable.
+>
+>
+>## `Justificación`
+>Argentina es un actor clave en la producción agrícola a nivel mundial, y el trigo y la soja son fundamentales para nuestra economía. Entender las variaciones en la producción a nivel regional es esencial para interiorizarse en los niveles de producción de cada región >en nuestro país.
+>
+>
+>## `Alcance del Proyecto`
+>El alcance abarca la totalidad del territorio argentino, examinando datos a nivel de provincias y localidades. Se emplearán técnicas de análisis de datos, visualización y algoritmos de clustering para ofrecer una visión integral y detallada de los patrones de >producción de trigo y soja.
 
-
-## `Justificación`
-Argentina es un actor clave en la producción agrícola a nivel mundial, y el trigo y la soja son fundamentales para nuestra economía. Entender las variaciones en la producción a nivel regional es esencial para interiorizarse en los niveles de producción de cada región en nuestro país.
-
-
-## `Alcance del Proyecto`
-El alcance abarca la totalidad del territorio argentino, examinando datos a nivel de provincias y localidades. Se emplearán técnicas de análisis de datos, visualización y algoritmos de clustering para ofrecer una visión integral y detallada de los patrones de producción de trigo y soja.
-
-## 2. Análisis Exploratorio de Datos
-
-### Carga y Sanitización de los DataFrames
-
-Sección dedicada al análisis exploratorio de datos para los siguientes cultivos:
-- Avena
-- Maíz
-- Girasol
-- Trigo
-- Soja
-- Centeno
+> [!IMPORTANT]
+>## 2. Análisis Exploratorio de Datos
+>
+>### Carga y Sanitización de los DataFrames
+>
+>Sección dedicada al análisis exploratorio de datos para los siguientes cultivos:
+>- Avena
+>- Maíz
+>- Girasol
+>- Trigo
+>- Soja
+>- Centeno
 
 ## 3. Análisis Exploratorio de Datos (Continuación)
 
