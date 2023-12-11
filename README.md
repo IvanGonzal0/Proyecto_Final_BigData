@@ -3,22 +3,20 @@
 Este es el README del Proyecto Final de Big Data & Machine Learning, desarrollado como parte del curso en la UPSO.
 
 > [!NOTE]
-> Esto es informacion adicional
+>
 > ## 1. Inicio
-
 > ## `Introducción`
-
 > El proyecto tiene como objetivo principal realizar un análisis exhaustivo del rendimiento y producción de dos de los cultivos más significativos en Argentina: trigo y soja. La iniciativa trata de proporcionar una comprensión detallada de los patrones de producción a > nivel nacional.
-
-## `Objetivos del proyecto`
-
-Agricultura
-
-● **Análisis de Producción**: Evaluar y comparar el rendimiento anual de diferentes granos, poniendo mayor énfasis y haciendo un análisis mas exhaustivo para el trigo y la soja analizando su nivel de producción en todas las provincias y departamentos de Argentina.
-
-● **Exploración Geoespacial**: Utilizar algoritmos de clustering para identificar diferentes niveles de producción de trigo y soja en las diferentes regiones geográficas Argentinas.
-
-● **Visualización Interactiva**: Generar gráficos y visualizaciones interactivas que permitan a los usuarios explorar los datos de producción y rendimiento de manera intuitiva y amigable.
+>
+>## `Objetivos del proyecto`
+>
+>Agricultura
+>
+>● **Análisis de Producción**: Evaluar y comparar el rendimiento anual de diferentes granos, poniendo mayor énfasis y haciendo un análisis mas exhaustivo para el trigo y la soja analizando su nivel de producción en todas las provincias y departamentos de Argentina.
+>
+>● **Exploración Geoespacial**: Utilizar algoritmos de clustering para identificar diferentes niveles de producción de trigo y soja en las diferentes regiones geográficas Argentinas.
+>
+>● **Visualización Interactiva**: Generar gráficos y visualizaciones interactivas que permitan a los usuarios explorar los datos de producción y rendimiento de manera intuitiva y amigable.
 
 
 ## `Justificación`
