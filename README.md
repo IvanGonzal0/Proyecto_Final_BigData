@@ -2,7 +2,7 @@
 
 Este es el README del Proyecto Final de Big Data & Machine Learning, desarrollado como parte del curso en la UPSO.
 
-> [!NOTE]
+> [!NOTE].
 >
 > ## 1. Inicio
 > ## `Introducción`
