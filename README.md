@@ -60,7 +60,7 @@ Este es el README del Proyecto Final de Big Data & Machine Learning, desarrollad
 >   - Se utilizó Plotly Express para la creación del gráfico lineal.
 >
 >### Generalización del Proceso
-
+>
 >Estos pasos de carga, sanitización y visualización de datos se aplicaron de manera similar a varios cultivos, como avena, girasol, trigo, soja y centeno. Los DataFrames resultantes para cada cultivo, como `df_avena`, `df_girasol`, `df_trigo`, `df_soja`, y `df_centeno`, permitieron un análisis comparativo de las tendencias de producción y rendimiento a lo largo de los años en Argentina.
 >
 >Este enfoque sistemático proporciona una visión integral de las características agrícolas en Argentina, permitiendo la identificación de patrones, análisis de tendencias y toma de decisiones informadas en el sector agrícola.
