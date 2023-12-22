@@ -87,5 +87,20 @@ Este es el README del Proyecto Final de Big Data & Machine Learning, desarrollad
 > [!TIP]
 >## Conclusiones
 >
->En esta sección, se proporcionarán las conclusiones obtenidas a partir de los análisis realizados en el proyecto.
-
+>### Reflexión de la Primera Parte del Proyecto
+>Los análisis sobre la producción y rendimiento de granos en Argentina revelan tendencias clave 
+>y factores determinantes de su evolución. Se destaca el notorio aumento en la superficie 
+>destinada a la siembra de soja y maíz, influenciado por la creciente demanda global, precios 
+>históricamente elevados, y políticas gubernamentales de apoyo. En contraste, la disminución 
+>de la superficie para centeno y girasol se atribuye a la baja demanda mundial y la competencia 
+>con cultivos más rentables como la soja y el maíz. Además, el incremento general del 
+>rendimiento de todos los granos se vincula con avances tecnológicos y la expansión de áreas 
+>agrícolas
+>### Reflexión de la Segunda Parte del Proyecto
+>La relación positiva entre la superficie cosechada y la producción de soja en diferentes 
+>departamentos es evidente. Este patrón indica que una mayor área dedicada a la cosecha se 
+>traduce en una producción más significativa. Asimismo, la relación entre la superficie 
+>sembrada y cosechada refleja que un aumento en la siembra generalmente conlleva a una 
+>cosecha proporcionalmente mayor. Estos hallazgos respaldan la importancia de la superficie 
+>dedicada a la cosecha y siembra en la determinación de los niveles de producción tanto para el 
+>trigo como para la soja.
