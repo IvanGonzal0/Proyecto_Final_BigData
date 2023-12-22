@@ -38,7 +38,32 @@ Este es el README del Proyecto Final de Big Data & Machine Learning, desarrollad
 >- Trigo
 >- Soja
 >- Centeno
+>1. **Carga del Archivo CSV:** Se cargó los archivos CSV correspondientes a los diferentes cultivos DataFrames utilizando la biblioteca pandas.
 >
+>2. **Sanitización de los DataFrame:** Para asegurar la calidad de los datos, se aplicó la función `sanitizar_dataframe` a todos estos DataFrames para manejar posibles valores NaN y otras prácticas de saneamiento.
+>
+>### Exploración de Datos
+>
+>3. **Tipos de Datos:** Se verificaron los tipos de datos de las columnas de los DataFrames para garantizar la coherencia en el análisis.
+>
+>### Visualización de Tendencias
+>
+>4. **Gráfico de Tendencia de Características del Cultivo:**
+>   - Se utilizó Plotly Express para crear un gráficos lineales que muestrna la tendencia de las características de los diferentes cultivos a lo largo del tiempo.
+>   - Se graficaron las variables 'superficie_sembrada_ha', 'superficie_cosechada_ha' y 'produccion_t'.
+>   - El eje X representa el tiempo (Año), y el eje Y representa los valores de las variables.
+>   - Se asignaron colores distintivos para cada variable ('superficie_sembrada_ha': azul, 'superficie_cosechada_ha': naranja, 'produccion_t': verde).
+>
+>5. **Gráfico de Rendimiento de Cultivo por Año:**
+>   - Se creó otro gráfico lineal para visualizar la tendencia del rendimiento del cultivo por año.
+>   - El eje x representa el tiempo (Año), y el eje y representa el rendimiento en kg/ha ('rendimiento_kgxha').
+>   - Se utilizó Plotly Express para la creación del gráfico lineal.
+>
+>### Generalización del Proceso
+
+>Estos pasos de carga, sanitización y visualización de datos se aplicaron de manera similar a varios cultivos, como avena, girasol, trigo, soja y centeno. Los DataFrames resultantes para cada cultivo, como `df_avena`, `df_girasol`, `df_trigo`, `df_soja`, y >`df_centeno`, permitieron un análisis comparativo de las tendencias de producción y rendimiento a lo largo de los años en Argentina.
+>
+>Este enfoque sistemático proporciona una visión integral de las características agrícolas en Argentina, permitiendo la identificación de patrones, análisis de tendencias y toma de decisiones informadas en el sector agrícola.
 >## 3. Análisis Exploratorio de Datos (Continuación)
 >
 >Investigando la estimación de produccion de trigo y soja a fondo, desde un DataSet que contiene la producción de todos los cultivos, discriminando por provincia, departamento y más características de todo el territorio Argentino
