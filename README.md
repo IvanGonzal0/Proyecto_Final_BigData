@@ -41,7 +41,43 @@ Este es el README del Proyecto Final de Big Data & Machine Learning, desarrollad
 >
 >## 3. Análisis Exploratorio de Datos (Continuación)
 >
->Esta parte del proyecto aborda la estimación de la producción para los cultivos de Trigo, Soja y Yerba Mate.
+>Investigando la estimación de produccion de trigo y soja a fondo, desde un DataSet que contiene la producción de todos los cultivos, discriminando por provincia, departamento y más características de todo el territorio Argentino
+> ### Proceso de Preparación de Datos para Análisis Exploratorio
+>
+>En esta sección, llevamos a cabo una serie de pasos para preparar y organizar el conjunto de datos de estimación de producción.
+>
+>1. **Organización de Datos:** Utilizamos una función personalizada (`organizar_datos`) para reestructurar el DataFrame y facilitar su manipulación.
+>
+>2. **Exploración Inicial:** Mostramos el DataFrame resultante y observamos sus dimensiones (153889 filas y 12 columnas).
+>
+>3. **Manipulación de Tipos de Datos:** Verificamos los tipos de datos de las columnas y notamos que todos son del tipo 'Object' ('O'). Convertimos las columnas relevantes a tipos numéricos para facilitar análisis futuros, tratando posibles valores no numéricos.
+>
+>4. **Saneado de Datos:** Aplicamos un proceso de saneado para abordar posibles valores nulos ('NaN') y asegurar la calidad de los datos.
+>
+>5. **Ajuste de Tipos de Datos:** Finalmente, convertimos las columnas numéricas a tipos de datos enteros para representación precisa y evitar posibles errores.
+>
+>###  Análisis y Filtrado de Datos Relevantes
+>
+>6. **Selección de Columnas Relevantes:**
+>   - Identificamos las columnas críticas para nuestro análisis, incluyendo información sobre la provincia, departamento, cultivo, superficie sembrada, superficie cosechada, producción y rendimiento.
+>
+>7. **Exploración de Columnas Seleccionadas:**
+>   - Mostramos el nuevo DataFrame resultante después de la selección de columnas y examinamos las columnas disponibles.
+>
+>8. **Tipos de Datos de Columnas Seleccionadas:**
+>   - Verificamos que las columnas relevantes ahora tienen tipos de datos numéricos adecuados para facilitar su manipulación y análisis.
+>
+>9. **Exploración de Valores Únicos en Columnas:**
+>   - Identificamos los valores únicos en las columnas 'cultivo' y 'provincia' para comprender la variedad de cultivos y las provincias disponibles en el conjunto de datos.
+>
+>10. **Filtrado por Cultivo - Trigo:**
+>    - Seleccionamos y mostramos datos específicos para el cultivo de trigo a nivel nacional ('Trigo total').
+>
+>11. **Filtrado por Cultivo - Soja:**
+>    - Seleccionamos y mostramos datos específicos para el cultivo de soja a nivel nacional, incluyendo todas las filas donde el nombre del cultivo contiene la palabra "soja".
+>
+>Estos pasos nos permiten centrarnos en datos específicos relevantes para el análisis exploratorio de la producción agrícola de trigo y soja en Argentina, facilitando la comprensión y la interpretación de resultados.
+>
 >
 >## 4. Clustering
 >
